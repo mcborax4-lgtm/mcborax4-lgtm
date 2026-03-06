@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Привет, я Максим
 
-<!--
-**mcborax4-lgtm/mcborax4-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий IT-специалист с интересом к Python, автоматизации и анализу данных.
 
-Here are some ideas to get you started:
+Сейчас развиваюсь в направлении:
+- Python разработка
+- IT Support / ERP системы
+- автоматизация процессов
+- анализ данных (SQL / pandas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🛠 Технологии
+
+Python  
+SQL  
+Git / GitHub  
+Telegram Bot API  
+pandas  
+ERP системы (1С, Microsoft Dynamics AX)
+
+---
+
+# 🚀 Проекты
+
+### Germany Heizung Telegram Bot
+Telegram-бот для обработки клиентских запросов с поддержкой русского и немецкого языка.
+
+Функции:
+- автоопределение языка
+- база знаний
+- логирование пользователей
+- статистика обращений
+
+---
+
+# 📚 Обучение
+
+Онлайн-колледж — Python разработчик (в процессе обучения)
+
+---
+
+# 📫 Контакты
+
+GitHub: https://github.com/mcborax4-lgtm
